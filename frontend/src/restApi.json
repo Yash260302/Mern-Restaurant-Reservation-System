@@ -4,20 +4,20 @@
             {
                 "id": 1,
                 "image": "./quality_food.svg",
-                "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "title": "EFFORTLESS BOOKING",
+                "description": "Reserve your table in seconds with a smooth, user-friendly system designed to save you time." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
-                "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "title": "EXCEPTIONAL EXPERIENCES",
+                "description": "We connect you to memorable dining moments at the city’s best spots, every time you book." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
-                "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "title": "SEAMLESS SERVICE",
+                "description": "Enjoy a reliable, hassle-free reservation process — from search to confirmation." 
             }
         ],
         "dishes": [
@@ -74,25 +74,25 @@
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
+                "name": "JACOB GREEN",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
+                "name": "RICHARD PHILIPS",
                 "designation": "Sous Chef"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
+                "name": "ALEX FINLER",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
+                "name": "MARK GABES",
                 "designation": "Senior Chef"
             }
         ],
@@ -100,44 +100,44 @@
             {
                 "id": 1,
                 "image": "./review1.png",
-                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "description": "Plateful makes booking a table so easy! I love how I can see real-time availability and grab a spot at my favorite restaurants in seconds.",
                 "rating": 4,
-                "userName": "Jane Cooper"
+                "userName": "Henry Ford"
             },
             {
                 "id": 2,
                 "image": "./review2.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "Such a time saver! No more calling multiple restaurants. One click and my weekend dinner plans are sorted.",
                 "rating": 4.5,
-                "userName": "Esther Howard"
+                "userName": "Markus"
             },
             {
                 "id": 3,
                 "image": "./review3.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "The interface is clean and easy to use. I’ve booked breakfast, lunch, and dinner reservations without any hassle.",
                 "rating": 5,
-                "userName": "Guy Hawkins"
+                "userName": "Joey Bucker"
             }
         ],
         "who_we_are": [
             {
                 "id": 1,
-                "number": "14",
+                "number": "20+",
                 "title": "Restaurants"
             },
             {
                 "id": 2,
-                "number": "20",
+                "number": "50+",
                 "title": "Chef In Kitchen"
             },
             {
                 "id": 3,
-                "number": "08",
+                "number": "10",
                 "title": "Years Of Experience"
             },
             {
                 "id": 4,
-                "number": "200",
+                "number": "150+",
                 "title": "Food Dishes"
             }
         ],
